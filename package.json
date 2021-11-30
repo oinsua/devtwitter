@@ -1,5 +1,5 @@
 {
-  "name": "devtwiter",
+  "name": "devtwitter",
   "private": true,
   "scripts": {
     "dev": "next dev",
